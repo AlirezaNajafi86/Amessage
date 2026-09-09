@@ -13,7 +13,6 @@ A modern real-time messaging platform built with \*\*Django\*\*, \*\*Django Chan
 \---
 
 
-
 \## ✨ Overview
 
 
